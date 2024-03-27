@@ -2,7 +2,6 @@
 
 ### TODO:
 - [ ] Create ERD
-- [ ] Contributor Payment Verification module
 - [ ] Write tests
 #### Login Security
 - [ ] Authorized Users for using the scholarship portal
