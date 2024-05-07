@@ -1,4 +1,6 @@
 # Compiled class file
+**/__pycache__/
+instance/
 *.class
 
 # Log file
